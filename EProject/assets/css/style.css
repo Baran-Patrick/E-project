@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.nav-link{
+    font-size: 20px;
+}
+.nav-link:hover{
+    background-color: wheat;
+}
+.bg-slider{
+    height: 800px;
+    background-image: url(../images/pexels-ds-stories-7267588.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.about-h{
+    text-align: center;
+    margin-top: 3%;
+}
+.new-h{
+    text-align: center;
+    margin-top: 3%;
+}
+.event-h{
+    text-align: center;
+    margin-top: 3%;
+}
+.gallery-h{
+    text-align: center;
+    margin-top: 3%;
+}
+.gallery-h{
+    text-align: center;
+}
+.foot{
+    padding: 10%;
+}
+li{
+    list-style: none;
+}
